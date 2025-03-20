@@ -1,0 +1,13 @@
+# IDE files
+.idea
+.vscode
+
+# Binary files
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Secret files
+/secrets
