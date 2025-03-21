@@ -1,4 +1,4 @@
-module rae-word-of-the-day-scrapper-botscrachpad
+module wod-rae
 
 go 1.24.1
 
