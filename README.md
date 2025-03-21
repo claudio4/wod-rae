@@ -56,4 +56,3 @@ The main logic of the bot is implemented in Go in the `main.go` file.
 ## Disclaimer
 
 This bot scrapes the Real Academia Española website. Please be aware of the terms of service and robots.txt of the RAE website before running this bot frequently.
-```
