@@ -29,7 +29,7 @@ The recommended way to run this bot is using Docker.
    You need to provide the required environment variables when running the container.
 
    ```bash
-   docker run -d --name wod-rae-bot \
+   docker run --rm --name wod-rae-bot \
       -e WOD_RAE_BOT_TOKEN="YOUR_TELEGRAM_BOT_TOKEN" \
       -e WOD_RAE_RECIPIENTS="USER_ID_1 USER_ID_2 ... USER_ID_N" \
       ghcr.io/claudio4/wod-rae:latest
